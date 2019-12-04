@@ -1,5 +1,4 @@
-# Usecases
-Defining statement 
+Problem Definition
 
 FAILED COURSE CREDIT RECOVERY
 Proof of Concept 
