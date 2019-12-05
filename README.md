@@ -12,7 +12,7 @@ To predict the student's performance in the course, whether students could able 
 Here we are not investigating the factors influence the student performance in the course. Based on the information we have, we perform prediction model and not being judgemental to student performance because number of other factors influence which cannot be measured. 
 
 
-Indicator identified :  Student_Id, Age, Course_No, Announcement_view(No of times), Absent, Average, Course_Hr.  
+Indicator identified :  Student_Id, Age, Course_No, Announcement_view(No of times), Absent, Average, Course_Hr, Consultation.  
 
 Additional conditions :
       Students must have a final course mark of 50 % or greater and less than 60%.
