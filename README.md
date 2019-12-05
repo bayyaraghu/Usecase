@@ -1,7 +1,7 @@
 Problem Definition
 
 FAILED COURSE CREDIT RECOVERY
-Proof of Concept 
+Proof of Concept, 
 From Concept to Practical to Experimental
 By : Raghu Bayya
 
@@ -25,3 +25,7 @@ Confidentiality : Follow content in this document are confidential and intended 
 
 Important : Content in this document is free use, you can only use for education and learning purposes not for commercial use, knowledge transfer. No personal data  is used in exercise if only with permission.  
 
+
+-----Data Prepration----- 
+
+Data has collected form source of evaluation,  
