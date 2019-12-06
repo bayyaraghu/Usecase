@@ -30,6 +30,7 @@ Important : Content in this document is free use, you can only use for education
 
 Data has collected form source of evaluation,  
 
+
 Convering the Students Grades into catagorical variables
 
 1. Grades grater then equal 60 and less then equal to 100 pass
