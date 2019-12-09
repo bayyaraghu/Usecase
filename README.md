@@ -36,3 +36,8 @@ Convering the Students Grades into catagorical variables
 1. Grades grater then equal 60 and less then equal to 100 pass
 2. Grades greater then equal 50 and less than equal to 59 Re-take
 3. Grades greater then equal to 0 and less then equal to 49 re-do
+
+
+And to check how professor or instructor motivation will help student to perform better in course. And how it influence in making decision to make his/her career in it.
+
+
