@@ -38,6 +38,6 @@ Convering the Students Grades into catagorical variables
 3. Grades greater then equal to 0 and less then equal to 49 re-do
 
 
-And to check how professor or instructor motivation will help student to perform better in course. And how it influence in making decision to make his/her career in it.
+And to check how professor or instructor motivation will help student to perform better in course. And how it influence in making decision to make his/her career in it. This is analyze but student random feedback system or random selection verificatio on student performance
 
 
