@@ -1,35 +1,35 @@
-ID,Name,Grades,ConsultationsD1,ConsultationsD2,Hrabsence,Finalgrades
-1913357,"Behal, Harry",90,13,12,21,Pass
-1899502,"Chugh, Gursahib Singh",67,7,6,22,Pass
-1895342,"Davinder Singh, Davinder Singh",70,28,14,12,Pass
-1913546,"Devarapu, Mary Keerthi",60,7,16,16,Pass
-1895179,"Dharam, Naresh",55,16,5,38,Retake
-1913302,"Dilpreet Singh, Dilpreet Singh",65,8,6,8,Pass
-1913573,"Ekta, Ekta",64,10,9,20,Pass
-1895244,"Gill, Dilpreet Kaur",79,7,8,20,Pass
-1913405,"Gopu, Manisha",70,6,6,20,Pass
-1913548,"Gundeti, Gokul Reddy",63,12,13,14,Pass
-1913598,"Gurwinder Singh, Gurwinder Singh",15,1,1,32,Redo
-1913507,"Hamza, Ameer",60,1,7,17.45,Pass
-1913581,"Inderpreet Singh, Inderpreet Singh",46,9,6,12,Redo
-1913575,"Jobanjeet Singh, Jobanjeet Singh",66,2,17,30,Pass
-1913031,"Kosaraju, Kalyan",79,25,25,4,Pass
-1913582,"Kulwinder Singh, Kulwinder Singh",74,6,9,8,Pass
-1913586,"Manjinder Kaur, Manjinder Kaur",82,8,6,12,Pass
-1913406,"Mankaranjeet Kaur, Mankaranjeet Kaur",0,1,1,56,Redo
-1913098,"Manvir Kaur, Manvir Kaur",77,11,16,6,Pass
-1913036,"Narravula, Lakshmi Spandana",78,4,16,13,Pass
-1913579,"Navpreet Singh, Navpreet Singh",74,12,13,6,Pass
-1895123,"Palakeerthi, Anil",76,16,17,30,Pass
-1895317,"Parminder Singh, Parminder Singh",71,12,16,21,Pass
-1913599,"Patel, Laxit Maheshbhai",27,6,6,38,Redo
-1913448,"Patel, Rushi Kanubhai",75,12,19,6,Pass
-1913543,"Patel, Utsav Mukeshkumar",26,9,5,30,Redo
-1913537,"Prajapati, Riyaben Jagdishchandra",88,7,9,21,Pass
-1913589,"Sandhu, Anmolpreet Kaur",31,1,11,30,Redo
-1913078,"Sarasani, Srujal Reddy",60,1,9,26,Pass
-1913454,"Shabadpreet Kaur, Shabadpreet Kaur",41,24,24,20,Redo
-1913591,"Shah, Raj Jitenbhai",23,10,10,30,Redo
-1913099,"Simerjeet Kaur, Simerjeet Kaur",0,9,11,56,Redo
-1913460,"Tejpal, Shubham",71,9,8,6,Pass
-1895424,"Thakur, Risabh",65,11,10,14,Pass
+,ID,Grades,ConsultationsD1,ConsultationsD2,Hrabsence,Finalgrades
+0,4974728.2,90,13.0,12.0,21.0,Pass
+1,4938705.2,67,7.0,6.0,22.0,Pass
+2,4927889.2,70,28.0,14.0,12.0,Pass
+3,4975219.600000001,60,7.0,16.0,16.0,Pass
+4,4927465.4,55,16.0,5.0,38.0,Retake
+5,4974585.2,65,8.0,6.0,8.0,Pass
+6,4975289.8,64,10.0,9.0,20.0,Pass
+7,4927634.4,79,7.0,8.0,20.0,Pass
+8,4974853.0,70,6.0,6.0,20.0,Pass
+9,4975224.8,63,12.0,13.0,14.0,Pass
+10,4975354.8,15,1.0,1.0,32.0,Redo
+11,4975118.2,60,1.0,7.0,17.45,Pass
+12,4975310.600000001,46,9.0,6.0,12.0,Redo
+13,4975295.0,66,2.0,17.0,30.0,Pass
+14,4973880.600000001,79,25.0,25.0,4.0,Pass
+15,4975313.2,74,6.0,9.0,8.0,Pass
+16,4975323.600000001,82,8.0,6.0,12.0,Pass
+17,4974855.600000001,0,1.0,1.0,56.0,Redo
+18,4974054.8,77,11.0,16.0,6.0,Pass
+19,4973893.600000001,78,4.0,16.0,13.0,Pass
+20,4975305.4,74,12.0,13.0,6.0,Pass
+21,4927319.8,76,16.0,17.0,30.0,Pass
+22,4927824.2,71,12.0,16.0,21.0,Pass
+23,4975357.4,27,6.0,6.0,38.0,Redo
+24,4974964.8,75,12.0,19.0,6.0,Pass
+25,4975211.8,26,9.0,5.0,30.0,Redo
+26,4975196.2,88,7.0,9.0,21.0,Pass
+27,4975331.4,31,1.0,11.0,30.0,Redo
+28,4974002.8,60,1.0,9.0,26.0,Pass
+29,4974980.4,41,24.0,24.0,20.0,Redo
+30,4975336.600000001,23,10.0,10.0,30.0,Redo
+31,4974057.4,0,9.0,11.0,56.0,Redo
+32,4974996.0,71,9.0,8.0,6.0,Pass
+33,4928102.4,65,11.0,10.0,14.0,Pass
