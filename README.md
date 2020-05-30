@@ -15,9 +15,11 @@ Here we are investigating the factors that influence the student performance in 
 Indicator identified :  Student_Id, Age, Course_No, Announcement_view(No of times), Absent, Average, Course_Hr, no_of_Consultation.  
 
 Additional conditions :
-      Students must have a final course mark of 50 % or greater and less than 60%.
-     Less than 30% of absences to his/her course.
-   To Evaluate how no of absences in course  will influence the final grades of students .
+
+   Students must have a final course mark of 50% or greater and less than 60%.
+   Less than 30% of absences to his/her course.
+   To Evaluate how no of absences in course  will influence the final grades of students.
+   There are other statistics which are applyed during problem solving. 
 
 
 
